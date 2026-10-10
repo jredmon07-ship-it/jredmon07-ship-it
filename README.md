@@ -10,7 +10,8 @@ Neuroscience student at Ohio State. I build software, mostly by directing AI cod
 **[Builds](https://github.com/jredmon07-ship-it/builds-live)** — two static websites for fictional brands, AI-assisted design and build, no framework.
 [The Hale Group](https://jredmon07-ship-it.github.io/builds-live/hale-group/) · [Halden Watch Co.](https://jredmon07-ship-it.github.io/builds-live/halden-watch/)
 
+**[CMJ force-plate events](https://github.com/jredmon07-ship-it/cmj-force-plate-events)** — a Python tool that finds the 15 countermovement-jump events in raw force-plate exports, reverse-engineered from a lab's undocumented pipeline, plus a read-only dataset audit. Built during undergraduate research in the Buckeye Brain Aging Lab; the repo runs on synthetic data only.
+
 ### Also
 
-Research assistant (summer 2026), Buckeye Brain Aging Lab — force-plate data tooling in Python.
 CCNA · student pilot.
