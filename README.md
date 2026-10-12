@@ -8,7 +8,7 @@ Neuroscience student at Ohio State. I build software, mostly by directing AI cod
 [Live demo](https://aeroops-web.vercel.app/o/bravo/login) · [Site](https://jredmon07-ship-it.github.io/aeroops-site/)
 
 **[Builds](https://github.com/jredmon07-ship-it/builds-live)** — two static websites for fictional brands, AI-assisted design and build, no framework.
-[The Hale Group](https://jredmon07-ship-it.github.io/builds-live/hale-group/) · [Halden Watch Co.](https://jredmon07-ship-it.github.io/builds-live/halden-watch/)
+[The Hale Group](https://builds-live-hale-group.vercel.app/) · [Halden Watch Co.](https://builds-live-halden-watch.vercel.app/)
 
 **[CMJ force-plate events](https://github.com/jredmon07-ship-it/cmj-force-plate-events)** — a Python tool that finds the 15 countermovement-jump events in raw force-plate exports, reverse-engineered from a lab's undocumented pipeline, plus a read-only dataset audit. Built during undergraduate research in the Buckeye Brain Aging Lab; the repo runs on synthetic data only.
 
