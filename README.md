@@ -14,4 +14,4 @@ Neuroscience student at Ohio State. I build software, mostly by directing AI cod
 
 ### Also
 
-CCNA · student pilot.
+CCNA
